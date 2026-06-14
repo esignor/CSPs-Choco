@@ -1,0 +1,12 @@
+# To exlude files
+
+*.md linguist-vendored
+*.pptx linguist-vendored
+*.tex linguist-vendored
+*.aux linguist-vendored
+*.log linguist-vendored
+*.out linguist-vendored
+*.gz linguist-vendored
+*.bak linguist-vendored
+*.toc linguist-vendored
+
