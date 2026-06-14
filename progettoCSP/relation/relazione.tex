@@ -1,0 +1,47 @@
+\documentclass[10pt,a4paper, italian]{article}
+\usepackage[italian]{babel}
+\usepackage[T1]{fontenc} % riconosce gli acenti
+\usepackage[utf8]{inputenc} % riconosce gli acenti
+\usepackage{amssymb}
+\usepackage[table]{xcolor}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx} % per le immagini
+\usepackage[strict]{changepage}
+\usepackage{url}
+\usepackage[colorlinks=true,linkcolor=purple,urlcolor=purple]{hyperref}
+
+\pagenumbering{Roman}
+\setcounter{page}{0}
+
+\begin{document}
+\begin{figure}[H]
+\centering
+  \includegraphics[width=0.6\linewidth]{./img/logo_dip.png}
+   \label{fig: logo-unip-dipartimento-matematica}
+\end{figure}
+\vspace{1cm}
+\begin{center}\Large{\textbf{Universit\`a degli Studi di Padova\\Dipartimento di Matematica "Tullio Levi-Civita"\\Corso di Laurea Magistrale in Informatica}}\end{center}
+\vspace{5cm}
+\begin{center}\Large{Progetto di Intelligenza Artificiale: \\ Constraint Satisfaction Problems}\end{center}
+\begin{flushright} 
+\vspace{5cm}
+\textit{Relazione - Luglio 2021}\\
+Intelligenza Artificiale\\
+Eleonora Signor, 1237581
+\end{flushright}
+\pagebreak
+%-----------------------------------------------------------------------------------%
+% INDEX OF PAGES
+\tableofcontents \newpage
+%-----------------------------------------------------------------------------------%
+
+\setcounter{section}{0}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\input{./content/contenuto.tex}\newpage
+\end{document}
+
+

@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch mapColoring_local",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.MapColoring.mapColoring_local",
+            "projectName": "progettoCSP_4513a216"
+        },
+        {
+            "type": "java",
+            "name": "Launch mapColoring",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.MapColoring.mapColoring",
+            "projectName": "progettoCSP_4513a216"
+        },
+        {
+            "type": "java",
+            "name": "Launch nQueens",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.NQueens.nQueens",
+            "projectName": "progettoCSP_4513a216"
+        },
+        {
+            "type": "java",
+            "name": "Launch model_nqueens",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.NQueens.model_nqueens",
+            "projectName": "progettoCSP_4513a216"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_problem",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.ConstraintDesign.sum_problem",
+            "projectName": "progettoCSP_4513a216"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_problem",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.progetto.ConstraintDesign.sum_problem",
+            "projectName": "progettoCSP_4513a216"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_problem",
+            "request": "launch",
+            "mainClass": "codice.chocoCode.progetto.ConstraintDesign.sum_problem",
+            "projectName": "progetto_b99fbf8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_problem",
+            "request": "launch",
+            "mainClass": "sum_problem",
+            "projectName": "progetto_b99fbf8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch prova",
+            "request": "launch",
+            "mainClass": "codice.prova",
+            "projectName": "progetto_b99fbf8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch prova",
+            "request": "launch",
+            "mainClass": "prova",
+            "projectName": "progetto_b99fbf8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch nQueens",
+            "request": "launch",
+            "mainClass": "nQueens",
+            "projectName": "progetto_b99fbf8a"
+        }
+    ]
+}

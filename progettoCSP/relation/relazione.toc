@@ -1,0 +1,19 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Informazioni generali}{1}{section.1}%
+\contentsline {section}{\numberline {2}Constraint Satisfaction Problems}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduzione al problema}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Soddisfacente o insoddisfacente}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Scopo della ricerca}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Esempi di applicazione}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Sistemi e linguaggi di programmazione}{3}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Choco-Solver}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Il solver}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Studio della libreria}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Implementazione di \textit {n - Queens problem}}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Implementazione di \textit {Map Coloring problem}}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Costruzione di un vincolo}{10}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}MyPropagator}{11}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}MyPropagatorComplex}{11}{subsubsection.3.5.2}%
+\contentsline {section}{\numberline {4}Le mie considerazioni}{13}{section.4}%
+\contentsline {section}{\numberline {5}Riferimenti}{14}{section.5}%
