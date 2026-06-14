@@ -47,7 +47,7 @@ progettoCSP/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/CSPs-Choco.git
+   git clone https://github.com/esignor/CSPs-Choco.git
    ```
 2. Open the project in your preferred IDE (e.g., VS Code, IntelliJ).
 3. Ensure the `choco-solver.jar` is included in the project dependencies.
@@ -78,6 +78,7 @@ If you use any part of this work (code, report, or presentation), you must clear
 ## 👤 Author
 
 Eleonora Signor
+
 Master’s Degree in Computer Science
 University of Padua
 
