@@ -28,10 +28,10 @@ progettoCSP/
 │   └── choco-solver.jar
 │
 ├── presentation/
-│   └── Slides and material for oral presentation
+│   └── Slides and material for oral presentation (only slides are available)
 │
 ├── relation/
-│   └── Project report (LaTeX source and compiled files)
+│   └── Project report (only images are available)
 │
 └── .vscode/
     └── Editor configuration files
